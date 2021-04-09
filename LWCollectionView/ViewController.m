@@ -44,7 +44,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    self.view.backgroundColor = UIColor.whiteColor;
+    self.view.backgroundColor = UIColor.blueColor;
     
     LWCircleLayout *circleLayout = [[LWCircleLayout alloc] init];
     LWFlowLayout *flowLayout = [[LWFlowLayout alloc] init];
